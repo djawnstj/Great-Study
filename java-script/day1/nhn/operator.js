@@ -70,8 +70,10 @@ false || false // false
 // 논리곱(and) 주어진 여러 조건을 모두가 true여야만 true 반환
 true || true // true
 true || false // false
-false || true // false
+false || true // false수
 false || false // false
+
+//끝
 
 
 
