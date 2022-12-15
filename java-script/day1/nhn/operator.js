@@ -73,7 +73,6 @@ true || false // false
 false || true // false수
 false || false // false
 
-//끝
 
 
 
