@@ -1,10 +1,3 @@
-function facto(num) {
-    var res = 1;
-}
-
-
-
-
 function factorial(num) {
     var result = 1;
 
