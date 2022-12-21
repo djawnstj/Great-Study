@@ -8,7 +8,5 @@ function gugudan(num) {
 }
 console.log(gugudan(9))
 
-// 파라미터 값 {
-// for 문 :초기화식; 조건식; 증감식;
-// (var i = num;
+
 
